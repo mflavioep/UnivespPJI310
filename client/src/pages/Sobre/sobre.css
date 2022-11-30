@@ -1,0 +1,8 @@
+
+/* definir as propriedades da página Sobre */
+#container-Sobre {width: 100%; margin-left: 5%; float: left; position: relative; height: 80%; background-color: #fff;}
+#txt-Sobre {width: 100%; float: left; position: relative; padding: 0%;}
+#txt-Sobre p {width: 50%; margin-right: 100%; position: relative; float: left;}
+#txt-Sobre dl {width: 50%;}
+#img-conteudo-Sobre {width: 45%; position: relative; float: left;}
+#img-conteudo-Sobre img {width: 100%;}

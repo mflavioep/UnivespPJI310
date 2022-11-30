@@ -1,0 +1,46 @@
+body{
+    overflow-x: hidden;
+}
+
+.containerPrincipal {
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    padding-top: 5%;
+}
+
+.comnponentLogin {
+    display: flex;
+    flex-wrap: wrap;
+    align-self: flex-start;
+    width: 30%;
+    justify-content: center;
+    padding-right: 10%;
+
+}
+
+.infoComponentLogin {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.componentCadastro {
+    flex-wrap: wrap;
+    width: 50%;
+    justify-content: center;
+    padding-left: 10%;
+}
+
+.infoComponentCadastro {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.separacao {
+    border-style: double;
+    width: 2px;
+    border-color: black;
+}
